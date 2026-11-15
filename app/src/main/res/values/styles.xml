@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Cortana" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#55D6FF</item>
+        <item name="colorSecondary">#8B7CFF</item>
+        <item name="android:statusBarColor">#07111F</item>
+        <item name="android:navigationBarColor">#07111F</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#07111F</item>
+    </style>
+</resources>
